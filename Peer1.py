@@ -1,5 +1,5 @@
-from UI import ChatApp
-from process import Server_Process, get_IP
+from ClientProcess import ChatApp
+from ServerProcess import Server_Process, get_IP
 import threading
 
 
